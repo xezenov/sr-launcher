@@ -1,28 +1,18 @@
-# SilverwolfLv999SR
-#### Honkai: Star Rail server emulator (4.2 beta) written in Zig.
+## PS by ReversedRooms for HSR version 4.2.5v3 (4.3 beta)
+
+1. ก๊อปปี้ไฟล์ "xezenov.exe" กับ "xezen.dll" แล้วเอาไปวางที่โฟล์เดอร์เกมที่มี StarRial.exe
+2. รัน run.bat เพื่อรันเซิร์ฟขึ้น
+3. รัน xezenov.exe เข้าเล่นได้เลยครับ
+
+### แก้ไขตัวละคร
+https://relic-builder.vercel.app/
+
+แก้ไขตัวละคร หรือ import ไฟล์นี้ได้เลยครับ config.json เข้าเกม
 
 ![Screenshot](Screenshot.png)
 
 ## Requirements
 - [Zig 0.14.1 x64](https://ziglang.org/download/0.14.1/zig-x86_64-windows-0.14.1.zip)
-
-## Running
-
-### Setup launcher.exe
-
-Copy `xezenov.exe` and `xezen.dll` from launcher folder inside evanescia-sr and paste them inside your client folder.
-
-### From source
-
-Windows:
-
-Download `prebuild.zip` and run `run.bat`
-
-Then open your `xezenov.exe` with administrator.
-
-### Using Pre-built Binaries
-Navigate to the [Releases]()
-page and download the latest release for your platform.
 
 ## Connecting
 Get 4.1.5X client: [Gofile 1](https://gofile.io/d/3veX4G),
@@ -30,6 +20,9 @@ Get 4.1.5X client: [Gofile 1](https://gofile.io/d/3veX4G),
 Get 4.1.53 client:
 [Gofile 2](https://store-na-phx-4.gofile.io/download/web/17b12be5-bdf0-4fcc-9c82-cb6791e976c3/StarRail_4.2.53_CN_ReversedRooms.zip),
 
+### Using Pre-built Binaries
+Navigate to the [Releases](https://github.com/xezenov/sr-launcher/releases)
+page and download the latest release for your platform.
 
 ## Functionality (work in progress)
 - Login and player spawn
